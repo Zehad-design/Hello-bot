@@ -30,17 +30,17 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀︎︎︎☜︎︎︎✰🥀
+🔥Bot Admin🔥ཫ༄�𝕋𝕒𝕞𝕚𝕞 𝕒𝕟𝕕 ℤ𝕚𝕙𝕒𝕕🥀
 
-🙈bot andmin owner facebook id link🙈➪ https://www.facebook 💞🕊️
+🙈bot andmin owner facebook id link🙈➪𝗣𝗿𝗶𝘃𝗮𝘁𝗲💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 ⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉 ℙ𝕣𝕚𝕧𝕒𝕥𝕖😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀☜︎︎︎✰ 
+♥️Bot Owner♥️ ☞︎︎︎⃝𝗠𝗼𝗿𝗶𝗻𝗮☜︎︎︎✰ 
 
 🥳UPTIME🥳
 
@@ -51,9 +51,9 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 ✅Thanks for using ${global.config.BOTNAME} Bot🖤
 
 
-🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
+🦢🍒•••~~~~~~~~~~~~~~~~~~~~~~~•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✰🍒.        ⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀          🌿✰.✧✦🌸
+🌸✦✧✰🍒.       𝗠𝗱 𝗧𝗮𝗺𝗶𝗺         🌿✰.✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
